@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-You can check out the project using this [live demo link]()
+You can check out the project using this [live demo link](https://laiifuu.github.io/ES6-Awesome-Books/)
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 Assuming you have git installed on your computer, please follow the steps below: 
 - Create a folder
 - Navigate to that folder in the command line using the `cd` command
-- Clone the repository using the following command: `git clone `
+- Clone the repository using the following command: `git clone https://github.com/laiifuu/ES6-Awesome-Books.git`
 
 You will now be able to check the project with your code editor.
 
